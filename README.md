@@ -4,9 +4,7 @@ This is a simple weather application built with Bootstrap. It fetches and displa
 
 ## Preview
 
-![Weather App Preview](your_image_link_here)
-
-> **Note**: Replace `your_image_link_here` with a screenshot of your app for a visual representation.
+![Weather App Preview](https://github.com/Shubham7-1/Weather-App/assets/58452132/74f7ce06-68ec-4b4c-8bea-9c2fd69bba1c)
 
 ## Features
 
